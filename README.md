@@ -1,9 +1,9 @@
 
 Oracle Alert Log Parser
+---------------------------------------------------------------------------------------------------
 
 A simple Python utility to parse Oracle alert logs, group multiline entries by timestamps, and extract/count ORA- errors.  
 This project demonstrates how to bring structure and analysis to DBA logs using Python instead of shell scripts.
-
 
 
 Features

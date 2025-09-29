@@ -14,4 +14,12 @@ This project demonstrates how to bring structure and analysis to DBA logs using 
 ```
 **Project Structure**
 ---------------------------------------------------------------------------------------------------
+```
+oracle-alert-log-parser/
+├── alert_log_parser.py → Main Python script (parses logs, extracts ORA- errors)
+├── alert_mock.log → Sample Oracle alert log for testing
+├── README.md → Project documentation
+├── requirements.txt → Dependencies (currently stdlib only)
+├── .gitignore → Ignore venv, pycache, etc.
+```
 
